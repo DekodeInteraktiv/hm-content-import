@@ -1,5 +1,5 @@
 {
-    "name": "humanmade/hm-content-import",
+    "name": "dekode/hm-content-import",
     "description": "Migration framework for WordPress",
     "type": "wordpress-plugin",
     "license": "GPL-2.0-or-later",
